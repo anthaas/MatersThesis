@@ -1,0 +1,18 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[1] Config.pm:305> INFO - Logfile is 'kidiplom.blg'
+[35] biber:313> INFO - === Mon Feb 25, 2019, 19:26:23
+[57] Biber.pm:371> INFO - Reading 'kidiplom.bcf'
+[127] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[145] Biber.pm:3981> INFO - Processing section 0
+[158] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliografie.bib' for section 0
+[159] bibtex.pm:1468> INFO - LaTeX decoding ...
+[188] bibtex.pm:1294> INFO - Found BibTeX data source 'bibliografie.bib'
+[220] Utils.pm:169> WARN - ISBN '978-44-55-X' in entry 'kniha' is invalid - run biber with '--validate_datamodel' for details.
+[290] Utils.pm:169> WARN - year field '1980-' in entry 'tug' is not an integer - this will probably not sort properly.
+[295] Utils.pm:169> WARN - ISBN '978-222-626-222-2' in entry 'sbornik' is invalid - run biber with '--validate_datamodel' for details.
+[334] UCollate.pm:68> INFO - Overriding locale 'cs_CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[334] UCollate.pm:68> INFO - Overriding locale 'cs_CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[334] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'cs_CZ'
+[352] bbl.pm:617> INFO - Writing 'kidiplom.bbl' with encoding 'UTF-8'
+[359] bbl.pm:720> INFO - Output to kidiplom.bbl
+[359] Biber.pm:110> INFO - WARNINGS: 3
