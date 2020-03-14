@@ -1,0 +1,178 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{o01}{online}{}
+      \list{publisher}{1}{%
+        {Ministerstvo vnitra České republiky}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{langid}{czech}
+      \field{pagetotal}{69}
+      \field{title}{Obecné rozhraní pro komunikaci mezi elektronickými systémy spisových služeb a agentovými informačními systémy. (best practices)}
+      \field{urlday}{12}
+      \field{urlmonth}{8}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://mpsv.ezak.cz/document_13309/790d64e2d3c755b939b85b81ea208a5a-mpsv_resss_priloha_13_zd_obecne-rozhrani-pro-komunikaci-mezi-ess-a-ais-pdf
+      \endverb
+      \verb{url}
+      \verb https://mpsv.ezak.cz/document_13309/790d64e2d3c755b939b85b81ea208a5a-mpsv_resss_priloha_13_zd_obecne-rozhrani-pro-komunikaci-mezi-ess-a-ais-pdf
+      \endverb
+    \endentry
+    \entry{o00}{online}{}
+      \list{publisher}{1}{%
+        {Ministerstvo vnitra České republiky}%
+      }
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
+      \field{labeltitlesource}{title}
+      \field{langid}{czech}
+      \field{pagetotal}{73}
+      \field{title}{Oznámení Ministerstva vnitra, kterým se zveřejňuje národní standard pro elektronické systémy spisové služby.}
+      \field{urlday}{2}
+      \field{urlmonth}{10}
+      \field{urlyear}{2019}
+      \field{year}{2017}
+      \field{dateera}{ce}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb https://www.mvcr.cz/soubor/vestnik-mv-57-2017-oznameni-ministerstva-vnitra-kterym-se-zverejnuje-narodni-standard-pro-elektronicke-systemy-spisove-sluzby.aspx
+      \endverb
+      \verb{url}
+      \verb https://www.mvcr.cz/soubor/vestnik-mv-57-2017-oznameni-ministerstva-vnitra-kterym-se-zverejnuje-narodni-standard-pro-elektronicke-systemy-spisove-sluzby.aspx
+      \endverb
+    \endentry
+    \entry{b00}{book}{}
+      \field{sortinit}{5}
+      \field{sortinithash}{3c19c3776b658b3558e9e2e4840c01e2}
+      \field{labeltitlesource}{title}
+      \field{langid}{czech}
+      \field{pagetotal}{36}
+      \field{title}{ČSN ISO 15489-1 (97 1500). Informace a dokumentace - Správa dokumentů - Část 1: Pojmy a principy}
+      \field{year}{2018}
+    \endentry
+    \entry{b01}{book}{}
+      \field{sortinit}{6}
+      \field{sortinithash}{57e57fb8451e7fcfa45d1e069f6d3136}
+      \field{labeltitlesource}{title}
+      \field{langid}{english}
+      \field{pagetotal}{36}
+      \field{title}{ISO 19005-2. Document management – Electronic document file format for long-term preservation – Part 2: Use of ISO 32000-1 (PDF/A-2). 2011.}
+      \field{year}{2011}
+    \endentry
+    \entry{b02}{book}{}
+      \name{author}{1}{}{%
+        {{hash=97b4e796deedf687e661944037da548b}{%
+           family={PANDA},
+           familyi={P\bibinitperiod},
+           given={Debu.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Shelter Island, NY}%
+      }
+      \list{publisher}{1}{%
+        {Manning Publications}%
+      }
+      \strng{namehash}{97b4e796deedf687e661944037da548b}
+      \strng{fullhash}{97b4e796deedf687e661944037da548b}
+      \strng{bibnamehash}{97b4e796deedf687e661944037da548b}
+      \strng{authorbibnamehash}{97b4e796deedf687e661944037da548b}
+      \strng{authornamehash}{97b4e796deedf687e661944037da548b}
+      \strng{authorfullhash}{97b4e796deedf687e661944037da548b}
+      \field{sortinit}{7}
+      \field{sortinithash}{c818dd9105a2852444fc9f5e145c294e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{first}
+      \field{isbn}{978-1933988344}
+      \field{langid}{english}
+      \field{pagetotal}{712}
+      \field{title}{EJB 3 in action.}
+      \field{year}{2007}
+    \endentry
+    \entry{xsd00}{online}{}
+      \list{publisher}{1}{%
+        {Ministerstvo vnitra České republiky}%
+      }
+      \field{sortinit}{8}
+      \field{sortinithash}{07edf88d4ea82509b9c4b4d13f41c452}
+      \field{labeltitlesource}{title}
+      \field{langid}{czech}
+      \field{title}{Schéma XML pro výměnu dokumentů a jejich metadat. Příloha 1E}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.mvcr.cz/nsesss/v3/ermsIFSyn.xsd
+      \endverb
+      \verb{url}
+      \verb http://www.mvcr.cz/nsesss/v3/ermsIFSyn.xsd
+      \endverb
+    \endentry
+    \entry{xsd01}{online}{}
+      \list{publisher}{1}{%
+        {Ministerstvo vnitra České republiky}%
+      }
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{langid}{czech}
+      \field{title}{Schéma XML pro výměnu dokumentů a jejich metadat. Příloha 1D}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.mvcr.cz/nsesss/v3/ermsIFAsyn.xsd
+      \endverb
+      \verb{url}
+      \verb http://www.mvcr.cz/nsesss/v3/ermsIFAsyn.xsd
+      \endverb
+    \endentry
+    \entry{xsd02}{online}{}
+      \list{publisher}{1}{%
+        {Ministerstvo vnitra České republiky}%
+      }
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{langid}{czech}
+      \field{title}{Schéma XML pro výměnu dokumentů a jejich metadat. Příloha 1C}
+      \field{urlday}{24}
+      \field{urlmonth}{3}
+      \field{urlyear}{2019}
+      \field{urldateera}{ce}
+      \verb{urlraw}
+      \verb http://www.mvcr.cz/nsesss/v3/ermsAsynU.xsd
+      \endverb
+      \verb{url}
+      \verb http://www.mvcr.cz/nsesss/v3/ermsAsynU.xsd
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

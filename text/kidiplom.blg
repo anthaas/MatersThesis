@@ -1,0 +1,14 @@
+[0] Config.pm:302> INFO - This is Biber 2.9
+[1] Config.pm:305> INFO - Logfile is 'kidiplom.blg'
+[36] biber:313> INFO - === Thu Jan 16, 2020, 12:40:36
+[60] Biber.pm:371> INFO - Reading 'kidiplom.bcf'
+[133] Biber.pm:854> INFO - Using all citekeys in bib section 0
+[151] Biber.pm:3981> INFO - Processing section 0
+[164] Biber.pm:4154> INFO - Looking for bibtex format file 'bibliografie.bib' for section 0
+[165] bibtex.pm:1468> INFO - LaTeX decoding ...
+[176] bibtex.pm:1294> INFO - Found BibTeX data source 'bibliografie.bib'
+[221] UCollate.pm:68> INFO - Overriding locale 'cs_CZ' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[221] UCollate.pm:68> INFO - Overriding locale 'cs_CZ' defaults 'variable = shifted' with 'variable = non-ignorable'
+[221] Biber.pm:3809> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'cs_CZ'
+[233] bbl.pm:617> INFO - Writing 'kidiplom.bbl' with encoding 'UTF-8'
+[235] bbl.pm:720> INFO - Output to kidiplom.bbl

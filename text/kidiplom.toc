@@ -1,0 +1,152 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {czech}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}\IeC {\'U}vod}{9}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Spisov\IeC {\'a} slu\IeC {\v z}ba}{10}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Pojem ERMS}{10}{subsection.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Hlavn\IeC {\'\i } funkce}{11}{subsection.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}ISSD}{14}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Autentizace ISSD v\IeC {\r u}\IeC {\v c}i ERMS}{15}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Sch\IeC {\'e}ma komunikace}{16}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Princip synchronn\IeC {\'\i } a asynchronn\IeC {\'\i } komunikace}{17}{section.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Synchronn\IeC {\'\i } komunikace}{17}{subsection.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}P\IeC {\v r}\IeC {\'\i }klad synchronn\IeC {\'\i } komunikace}{19}{subsection.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Asynchronn\IeC {\'\i } komunikace}{19}{subsection.4.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.1}Evidence p\IeC {\v r}\IeC {\'\i }choz\IeC {\'\i }ch d\IeC {\'a}vek v~ERMS}{21}{subsubsection.4.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {4.3.2}Mechanismus tvo\IeC {\v r}en\IeC {\'\i } odchoz\IeC {\'\i }ch d\IeC {\'a}vek v~ERMS}{22}{subsubsection.4.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.4}P\IeC {\v r}\IeC {\'\i }klad asynchronn\IeC {\'\i } komunikace}{23}{subsection.4.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Popis struktur a v\IeC {\'y}znam jednotliv\IeC {\'y}ch vno\IeC {\v r}en\IeC {\'y}ch \IeC {\v c}\IeC {\'a}st\IeC {\'\i }}{25}{section.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Spole\IeC {\v c}n\IeC {\'e} vno\IeC {\v r}en\IeC {\'e} struktury}{25}{subsection.5.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Zalo\IeC {\v z}en\IeC {\'\i } dokumentu}{25}{subsection.5.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.1}Vy\IeC {\v r}\IeC {\'\i }zen\IeC {\'y} dokument}{27}{subsubsection.5.2.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.2}Uzav\IeC {\v r}en\IeC {\'y} dokument}{27}{subsubsection.5.2.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.3}Digit\IeC {\'a}ln\IeC {\'\i } dokument s~komponentami}{28}{subsubsection.5.2.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.4}Doru\IeC {\v c}en\IeC {\'y} dokument}{28}{subsubsection.5.2.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.2.5}Dokument ve spisu}{29}{subsubsection.5.2.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Aktualizce dokumentu}{29}{subsection.5.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Vr\IeC {\'a}cen\IeC {\'\i } dokumentu (p\IeC {\v r}ed\IeC {\'a}n\IeC {\'\i } do ERMS)}{30}{subsection.5.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Stornov\IeC {\'a}n\IeC {\'\i } dokumentu}{30}{subsection.5.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.6}Zalo\IeC {\v z}en\IeC {\'\i } spisu}{31}{subsection.5.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.1}Zalo\IeC {\v z}en\IeC {\'\i } spisu s~odkazem na dokument}{31}{subsubsection.5.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {5.6.2}Zalo\IeC {\v z}en\IeC {\'\i } spisu s~\IeC {\'u}pln\IeC {\'y}m profilem dokumentu}{31}{subsubsection.5.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.7}Zalo\IeC {\v z}en\IeC {\'\i } vy\IeC {\v r}\IeC {\'\i }zen\IeC {\'e}ho spisu}{32}{subsection.5.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.8}Vy\IeC {\v r}\IeC {\'\i }zen\IeC {\'\i } spisu}{32}{subsection.5.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.9}Uzav\IeC {\v r}en\IeC {\'\i } spisu}{32}{subsection.5.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.10}Vr\IeC {\'a}cen\IeC {\'\i } spisu (p\IeC {\v r}ed\IeC {\'a}n\IeC {\'\i } do ERMS)}{32}{subsection.5.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.11}Stornov\IeC {\'a}n\IeC {\'\i } spisu}{32}{subsection.5.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.12}Manipulace s~dokumenty ve spisu}{32}{subsection.5.12}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.13}Vytv\IeC {\'a}\IeC {\v r}en\IeC {\'\i } komponent}{32}{subsection.5.13}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.14}Ud\IeC {\'a}losti}{33}{subsection.5.14}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.15}Vypraven\IeC {\'\i } typu DopisOnline}{33}{subsection.5.15}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {6}Dopl\IeC {\v n}uj\IeC {\'\i }c\IeC {\'\i } data}{35}{section.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.1}\IeC {\v C}\IeC {\'\i }seln\IeC {\'\i }ky}{35}{subsection.6.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.2}DokumentFiltr}{35}{subsection.6.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.3}Dynamick\IeC {\'e} atributy (MAttr)}{36}{subsection.6.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.4}UdelitZpristupneni}{36}{subsection.6.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {6.5}Dal\IeC {\v s}\IeC {\'\i } struktury}{37}{subsection.6.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {7}Zp\IeC {\v r}\IeC {\'\i }stupn\IeC {\v e}n\IeC {\'\i } entit}{39}{section.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.1}Zp\IeC {\v r}\IeC {\'\i }stupn\IeC {\v e}n\IeC {\'\i } pomoc\IeC {\'\i } d\IeC {\v e}di\IeC {\v c}nosti}{40}{subsection.7.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.2}Explicitn\IeC {\'\i } zp\IeC {\v r}\IeC {\'\i }stupn\IeC {\v e}n\IeC {\'\i }}{40}{subsection.7.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.3}Krajn\IeC {\'\i } p\IeC {\v r}\IeC {\'\i }pad}{40}{subsection.7.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.4}Odebr\IeC {\'a}n\IeC {\'\i } zp\IeC {\v r}\IeC {\'\i }stupn\IeC {\v e}n\IeC {\'\i } pomoc\IeC {\'\i } d\IeC {\v e}di\IeC {\v c}nosti}{40}{subsection.7.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {7.5}Zm\IeC {\v e}na v\IeC {\'y}hradn\IeC {\'\i } spr\IeC {\'a}vy}{40}{subsection.7.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {8}Napojen\IeC {\'\i } syst\IeC {\'e}m\IeC {\r u} IS/STAG, SAP, CES a kofax (skenovac\IeC {\'\i } linka)}{41}{section.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.1}CES}{41}{subsection.8.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.2}SAP}{41}{subsection.8.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.3}IS/STAG}{42}{subsection.8.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {8.4}Skenovac\IeC {\'\i } linka}{44}{subsection.8.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {9}Logov\IeC {\'a}n\IeC {\'\i }}{47}{section.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {10}Testov\IeC {\'a}n\IeC {\'\i }}{48}{section.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.1}Testovac\IeC {\'\i } sc\IeC {\'e}n\IeC {\'a}\IeC {\v r}e pro jednotliv\IeC {\'e} informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}my}{48}{subsection.10.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {10.2}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } testovac\IeC {\'\i }ch sc\IeC {\'e}n\IeC {\'a}\IeC {\v r}\IeC {\r u} pomoc\IeC {\'\i } SOAP UI}{49}{subsection.10.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {11}Diskuze -- mo\IeC {\v z}n\IeC {\'a} roz\IeC {\v s}\IeC {\'\i }\IeC {\v r}en\IeC {\'\i }}{51}{section.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Z\'av\v er}{53}{section*.5}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Conclusions}{54}{section*.7}
+\babel@toc {english}{}
+\babel@toc {czech}{}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {A}Obsah p\IeC {\v r}ilo\IeC {\v z}en\IeC {\'e}ho CD/DVD}{55}{appendix.A}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {B}Uk\IeC {\'a}zkov\IeC {\'a} vol\IeC {\'a}n\IeC {\'\i }}{56}{appendix.B}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Seznam zkratek}{70}{section*.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{Literatura}{71}{section*.12}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {english}{}
+\babel@toc {czech}{}
+\babel@toc {english}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}
+\babel@toc {czech}{}

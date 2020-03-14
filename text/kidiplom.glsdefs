@@ -1,0 +1,210 @@
+\ifglsentryexists{UP}{}%
+{%
+\gls@defglossaryentry{UP}%
+{%
+name={UP},%
+sort={UP},%
+type={acronym},%
+first={Univerzita Palack\IeC {\'e}ho v Olomouci\glsspace (UP)},%
+firstplural={Univerzita Palack\IeC {\'e}ho v Olomoucis\glsspace (UPs)},%
+text={UP},%
+plural={UPs},%
+description={Univerzita Palack\IeC {\'e}ho v Olomouci},%
+descriptionplural={Univerzita Palack\IeC {\'e}ho v Olomoucis},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Univerzita Palack\IeC {\'e}ho v Olomouci},%
+longplural={Univerzita Palack\IeC {\'e}ho v Olomoucis},%
+short={UP},%
+shortplural={UPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ERMS}{}%
+{%
+\gls@defglossaryentry{ERMS}%
+{%
+name={ERMS},%
+sort={ERMS},%
+type={acronym},%
+first={Elektronick\IeC {\'a} spisov\IeC {\'a} slu\IeC {\v z}ba\glsspace (ERMS)},%
+firstplural={Elektronick\IeC {\'a} spisov\IeC {\'a} slu\IeC {\v z}bas\glsspace (ERMSs)},%
+text={ERMS},%
+plural={ERMSs},%
+description={Elektronick\IeC {\'a} spisov\IeC {\'a} slu\IeC {\v z}ba},%
+descriptionplural={Elektronick\IeC {\'a} spisov\IeC {\'a} slu\IeC {\v z}bas},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Elektronick\IeC {\'a} spisov\IeC {\'a} slu\IeC {\v z}ba},%
+longplural={Elektronick\IeC {\'a} spisov\IeC {\'a} slu\IeC {\v z}bas},%
+short={ERMS},%
+shortplural={ERMSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{NSESSS}{}%
+{%
+\gls@defglossaryentry{NSESSS}%
+{%
+name={NSESSS},%
+sort={NSESSS},%
+type={acronym},%
+first={N\IeC {\'a}rodn\IeC {\'\i } standard pro elektronick\IeC {\'e} syst\IeC {\'e}my spisov\IeC {\'e} slu\IeC {\v z}by dle \IeC {\textsection }63 z\IeC {\'a}kona \IeC {\v c}.499/2004 Sb.\glsspace (NSESSS)},%
+firstplural={N\IeC {\'a}rodn\IeC {\'\i } standard pro elektronick\IeC {\'e} syst\IeC {\'e}my spisov\IeC {\'e} slu\IeC {\v z}by dle \IeC {\textsection }63 z\IeC {\'a}kona \IeC {\v c}.499/2004 Sb.s\glsspace (NSESSSs)},%
+text={NSESSS},%
+plural={NSESSSs},%
+description={N\IeC {\'a}rodn\IeC {\'\i } standard pro elektronick\IeC {\'e} syst\IeC {\'e}my spisov\IeC {\'e} slu\IeC {\v z}by dle \IeC {\textsection }63 z\IeC {\'a}kona \IeC {\v c}.499/2004 Sb.},%
+descriptionplural={N\IeC {\'a}rodn\IeC {\'\i } standard pro elektronick\IeC {\'e} syst\IeC {\'e}my spisov\IeC {\'e} slu\IeC {\v z}by dle \IeC {\textsection }63 z\IeC {\'a}kona \IeC {\v c}.499/2004 Sb.s},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={N\IeC {\'a}rodn\IeC {\'\i } standard pro elektronick\IeC {\'e} syst\IeC {\'e}my spisov\IeC {\'e} slu\IeC {\v z}by dle \IeC {\textsection }63 z\IeC {\'a}kona \IeC {\v c}.499/2004 Sb.},%
+longplural={N\IeC {\'a}rodn\IeC {\'\i } standard pro elektronick\IeC {\'e} syst\IeC {\'e}my spisov\IeC {\'e} slu\IeC {\v z}by dle \IeC {\textsection }63 z\IeC {\'a}kona \IeC {\v c}.499/2004 Sb.s},%
+short={NSESSS},%
+shortplural={NSESSSs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{ISSD}{}%
+{%
+\gls@defglossaryentry{ISSD}%
+{%
+name={ISSD},%
+sort={ISSD},%
+type={acronym},%
+first={informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m spravuj\IeC {\'\i }c\IeC {\'\i } dokumenty\glsspace ( ISSD)},%
+firstplural={informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m spravuj\IeC {\'\i }c\IeC {\'\i } dokumentys\glsspace (ISSDs)},%
+text={ISSD},%
+plural={ISSDs},%
+description={informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m spravuj\IeC {\'\i }c\IeC {\'\i } dokumenty},%
+descriptionplural={informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m spravuj\IeC {\'\i }c\IeC {\'\i } dokumentys},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m spravuj\IeC {\'\i }c\IeC {\'\i } dokumenty},%
+longplural={informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m spravuj\IeC {\'\i }c\IeC {\'\i } dokumentys},%
+short={ISSD},%
+shortplural={ISSDs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{JAAS}{}%
+{%
+\gls@defglossaryentry{JAAS}%
+{%
+name={JAAS},%
+sort={JAAS},%
+type={acronym},%
+first={Java Authentication \& Authorization Service\glsspace (JAAS)},%
+firstplural={Java Authentication \& Authorization Services\glsspace (JAASs)},%
+text={JAAS},%
+plural={JAASs},%
+description={Java Authentication \& Authorization Service},%
+descriptionplural={Java Authentication \& Authorization Services},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Java Authentication \& Authorization Service},%
+longplural={Java Authentication \& Authorization Services},%
+short={JAAS},%
+shortplural={JAASs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{CES}{}%
+{%
+\gls@defglossaryentry{CES}%
+{%
+name={CES},%
+sort={CES},%
+type={acronym},%
+first={Centr\IeC {\'a}ln\IeC {\'\i } evidence smluv\glsspace (CES)},%
+firstplural={Centr\IeC {\'a}ln\IeC {\'\i } evidence smluvs\glsspace (CESs)},%
+text={CES},%
+plural={CESs},%
+description={Centr\IeC {\'a}ln\IeC {\'\i } evidence smluv},%
+descriptionplural={Centr\IeC {\'a}ln\IeC {\'\i } evidence smluvs},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Centr\IeC {\'a}ln\IeC {\'\i } evidence smluv},%
+longplural={Centr\IeC {\'a}ln\IeC {\'\i } evidence smluvs},%
+short={CES},%
+shortplural={CESs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
+\ifglsentryexists{SAP}{}%
+{%
+\gls@defglossaryentry{SAP}%
+{%
+name={SAP},%
+sort={SAP},%
+type={acronym},%
+first={Podnikov\IeC {\'y} a mana\IeC {\v z}ersk\IeC {\'y} informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m v oblasti pl\IeC {\'a}nov\IeC {\'a}n\IeC {\'\i } podnikov\IeC {\'y}ch zdroj\IeC {\r u} (ERP)\glsspace (SAP)},%
+firstplural={Podnikov\IeC {\'y} a mana\IeC {\v z}ersk\IeC {\'y} informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m v oblasti pl\IeC {\'a}nov\IeC {\'a}n\IeC {\'\i } podnikov\IeC {\'y}ch zdroj\IeC {\r u} (ERP)s\glsspace (SAPs)},%
+text={SAP},%
+plural={SAPs},%
+description={Podnikov\IeC {\'y} a mana\IeC {\v z}ersk\IeC {\'y} informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m v oblasti pl\IeC {\'a}nov\IeC {\'a}n\IeC {\'\i } podnikov\IeC {\'y}ch zdroj\IeC {\r u} (ERP)},%
+descriptionplural={Podnikov\IeC {\'y} a mana\IeC {\v z}ersk\IeC {\'y} informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m v oblasti pl\IeC {\'a}nov\IeC {\'a}n\IeC {\'\i } podnikov\IeC {\'y}ch zdroj\IeC {\r u} (ERP)s},%
+symbol={\relax },%
+symbolplural={\relax },%
+user1={},%
+user2={},%
+user3={},%
+user4={},%
+user5={},%
+user6={},%
+long={Podnikov\IeC {\'y} a mana\IeC {\v z}ersk\IeC {\'y} informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m v oblasti pl\IeC {\'a}nov\IeC {\'a}n\IeC {\'\i } podnikov\IeC {\'y}ch zdroj\IeC {\r u} (ERP)},%
+longplural={Podnikov\IeC {\'y} a mana\IeC {\v z}ersk\IeC {\'y} informa\IeC {\v c}n\IeC {\'\i } syst\IeC {\'e}m v oblasti pl\IeC {\'a}nov\IeC {\'a}n\IeC {\'\i } podnikov\IeC {\'y}ch zdroj\IeC {\r u} (ERP)s},%
+short={SAP},%
+shortplural={SAPs},%
+counter={page},%
+parent={},%
+%
+}%
+}%
